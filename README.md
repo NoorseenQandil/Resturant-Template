@@ -3,7 +3,6 @@ Resturant is template with HTML and CSS.
 
 ## Components
 ### 1.Home
-![Uploading Home.PNG…]()
 ### 2.About
 ![About](https://github.com/NoorseenQandil/Resturant-Template/assets/70522199/e7b788c7-a308-47e8-beba-0f361a8305e1)
 ### 3.LightBox
