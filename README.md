@@ -3,13 +3,13 @@ Resturant is template with HTML and CSS.
 
 ## Components
 ### 1.Home
-![Home](https://github.com/NoorseenQandil/Resturant-Template/assets/70522199/1cf3259c-2ec6-404c-97f0-db10c5c7af3a)
+![Uploading Home.PNG…]()
 ### 2.About
-![About](https://github.com/NoorseenQandil/Resturant-Template/assets/70522199/850ecfd9-9408-482c-b748-9980df98e258)
+![About](https://github.com/NoorseenQandil/Resturant-Template/assets/70522199/e7b788c7-a308-47e8-beba-0f361a8305e1)
 ### 3.LightBox
-![lightbox](https://github.com/NoorseenQandil/Resturant-Template/assets/70522199/ec795964-c064-41a9-8e19-e057f2036a30)
+![lightbox](https://github.com/NoorseenQandil/Resturant-Template/assets/70522199/0267d811-c796-4aaf-9976-c86ae81595b7)
 ### 4.Meals
-![Meals](https://github.com/NoorseenQandil/Resturant-Template/assets/70522199/2b00ac98-ea6e-475e-b5d0-54be06f26889)
+![Meals](https://github.com/NoorseenQandil/Resturant-Template/assets/70522199/1e55ad3d-1b8d-47bd-a695-c50a552be730)
 
 ## Hints
 #### - Section1: Home
