@@ -3,11 +3,15 @@ Resturant is template with HTML and CSS.
 
 ## Components
 ### 1.Home
-![Uploading Home - Copy.PNG…]()
+![Uploading Home section.PNG…]()
+![Home](https://github.com/NoorseenQandil/Resturant-Template/assets/70522199/e7b788c7-a308-47e8-beba-0f361a8305e1)
+
 ### 2.About
 ![About](https://github.com/NoorseenQandil/Resturant-Template/assets/70522199/e7b788c7-a308-47e8-beba-0f361a8305e1)
+
 ### 3.LightBox
 ![lightbox](https://github.com/NoorseenQandil/Resturant-Template/assets/70522199/0267d811-c796-4aaf-9976-c86ae81595b7)
+
 ### 4.Meals
 ![Meals](https://github.com/NoorseenQandil/Resturant-Template/assets/70522199/1e55ad3d-1b8d-47bd-a695-c50a552be730)
 
