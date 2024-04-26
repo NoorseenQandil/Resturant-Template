@@ -3,8 +3,7 @@ Resturant is template with HTML and CSS.
 
 ## Components
 ### 1.Home
-![Uploading Home section.PNG…]()
-![Home](https://github.com/NoorseenQandil/Resturant-Template/assets/70522199/e7b788c7-a308-47e8-beba-0f361a8305e1)
+![Uploading Home - Copy.PNG…]()
 
 ### 2.About
 ![About](https://github.com/NoorseenQandil/Resturant-Template/assets/70522199/e7b788c7-a308-47e8-beba-0f361a8305e1)
@@ -90,7 +89,7 @@ Resturant is template with HTML and CSS.
 ## Live Demo
 Experience the Tabs Project in action! Click the link below to access the live demo:
 
-[Live Demo] (https://noorseenqandil.github.io/Our-Products-display-task/)
+[Live Demo] (https://noorseenqandil.github.io/Resturant-Template/)
 
 Feel free to interact with the project, browse through different jobs, and explore the user-friendly interface. The live demo provides a hands-on experience to see the Tabs Project in action.
 
