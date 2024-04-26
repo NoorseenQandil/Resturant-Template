@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+}
+.clr{
+    clear: both;
+}
+#home{
+    background-image: url(../images/home.jpg);
+    background-size: 100% 100%;
+    height: 100vh;
+}
+#home .navbar img{
+    width: 100px;
+    float: left;
+}
+#home .navbar ul{
+    float: right;
+    list-style: none;
+}
+#home .navbar ul li{
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+}
+#home .navbar ul a{
+    color: #fff;
+    text-decoration: none;
+}
+#home .caption{
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+}
+#home .caption p{
+    padding: 10px 0;
+}
+#home .caption .btn1, #home .caption .btn2{
+    padding: 10px 16px;
+    border: none;
+}
+#home .caption .btn1{
+    background-color: #c1ab84;
+}
+#home .caption .btn2{
+    background-color: #fff;
+}
+#about .about-img{
+    width: 40%;
+    float: left;
+}
+#about .about-img img{
+    width: 100%;
+}
+#about .about-info{
+    width: 60%;
+    float: left;
+    text-align: center;
+    padding-top: 90px;
+}
+#about .about-info h2{
+    font-size: 50px;
+}
+#about .about-info h2 span{
+    color: #09c;
+}
+#about .about-info p{
+    padding: 20px;
+    line-height: 32px;
+}
+#about .about-info button{
+    padding: 14px 20px;
+    background-color: transparent;
+    border: 3px black solid;
+}
+#light-box{
+    background-image: url("../images/bg-home.jpg");
+    background-attachment: fixed;
+    height: 500px;
+}
+#meals{
+    padding-block: 50px;
+}
+#meals .meal{
+    width: 25%;
+    text-align: center;
+    float: left;
+}
+#meals .meal img{
+    border-radius: 50%;
+}
+#meals .meal .brbr{
+    height: 3px;
+    background-color: #09c;
+    margin: 15px auto;
+    width: 100px;
+}
+#meals .meal p{
+    padding-inline: 25px;
+}
